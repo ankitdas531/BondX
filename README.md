@@ -1,6 +1,6 @@
 # Bond Liquidity Platform (BLP) for India
 
-## 📌 Problem Statement
+## 📌 Problem Statement.
 The Indian bond market consists of Government Securities, Corporate Bonds, Municipal Bonds, Agency Bonds, Electoral Bonds, and more. However, the **corporate bond market is highly illiquid**, making it difficult for investors to buy or sell securities.
 
 ### Key Challenges:

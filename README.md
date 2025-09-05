@@ -12,7 +12,7 @@ The Indian bond market consists of Government Securities, Corporate Bonds, Munic
 
 ---
 
-## 💡 Proposed Solution: Bond Liquidity Platform (BLP)
+## 💡 Proposed Solution: Bond Liquidity Platform (BLP).
 A **SEBI-regulated electronic platform** designed to centralize trading, enhance transparency, and democratize access to bonds. The BLP re-architects how bonds are traded in India, creating a **dynamic and liquid market ecosystem**.
 
 ### 🔑 Core Features
